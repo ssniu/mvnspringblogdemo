@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<server port="8080">
-  <module context="webapp-2.5" name="webapp-2.5" path="/Users/frank/stumblr/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/webapp-2.5" type="j2ee"/>
-</server>
